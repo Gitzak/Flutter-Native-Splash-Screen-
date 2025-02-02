@@ -1,5 +1,7 @@
 # splash_screen
 
+![Screenshot](https://github.com/user-attachments/assets/31163658-60b0-497a-8641-725f1c452244)
+
 A new Flutter project.
 
 ## Getting Started
